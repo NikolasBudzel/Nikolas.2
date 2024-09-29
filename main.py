@@ -109,4 +109,3 @@ def uloha_15(N):
             break
     print(f"cislo {N} je prvocislo: {prvocislo}")
 
-pecer
