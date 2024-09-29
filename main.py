@@ -108,3 +108,5 @@ def uloha_15(N):
             prvocislo = False
             break
     print(f"cislo {N} je prvocislo: {prvocislo}")
+
+pecer
